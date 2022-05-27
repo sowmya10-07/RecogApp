@@ -1,7 +1,10 @@
 ## RecogApp<br>
 
+### Description<br>
+A browser-based application to demonstrate the application of face recognition technology in field of **Smarter Advertising**, **Customer Analytics** and **Tracking Attendance**.<br>
+
 ### Getting Started<br>
-Link to the app:<br>
+Link to the web-app:<br>
 or<br>
 Follow the below instructions to run the app on local host<br>
 1. Clone the git repository<br>
@@ -9,12 +12,21 @@ Follow the below instructions to run the app on local host<br>
 3. In CMD, run the command **npm install http-server -g**<br>
 4. Navigate to the specific path of the cloned file in CMD and run the command **http-server**
 5. Go to your browser and type **localhost:8080**. Application should run there.
-  
-### Description<br>
-A browser-based application to demonstrate the application of face recognition technology in field of **Smarter Advertising** and **Tracking Attendance**.<br>
 
 ### App Architecture<br>
 The app starts with the home page which links to<br><br>
 <B>1. Smarter Advertising </B><br>
-Description: The <br>
-<B>2. Tracking Attendance </B><br>
+The app detects the faces near the digital advertising board, recognizes their age and gender. This information is used to display ads accordingly on the digital advertising board.<br>
+<B>2. Customer Analytics</B><br>
+The app captures faces of the people in a store. It shows the age and gender group visiting the store, the expressions of the people in the store. This information gives the owners better understanding of their customers and can help them better their services.<br>
+<B>3. Tracking Attendance </B><br>
+
+### Techstack <br>
+* Face-api.js (a javacript api which is used to detect faces, recognize expressions, age and gender)
+* HTML
+* CSS
+* Javascript
+* jQuery
+ 
+ ### References <br>
+ * Using face-api.js: https://medium.com/theleanprogrammer/face-api-js-a-way-to-build-face-recognition-system-in-browser-c1f4ac922657
