@@ -7,7 +7,7 @@ A browser-based application which uses face recognition to display ads in a smar
 Link to the web-app: https://recogapp.herokuapp.com/<br>
 or<br>
 Follow the below instructions to run the app on local host<br>
-1. Clone the git repository<br>
+1. Clone the git repository https://github.com/sowmya10-07/RecogApp.git<br>
 2. Have **Node.js** installed in your system<br>
 3. In CMD, run the command **npm install http-server -g**<br>
 4. Navigate to the specific path of the cloned file in CMD and run the command **http-server**
