@@ -1,10 +1,10 @@
 ## RecogApp<br>
 
 ### Description<br>
-A browser-based application which uses face recognition to display ads in a smarter way, gain customer analytics and to help the blind to understand the emotions of the person near them.**.<br>
+A browser-based application which uses face recognition to display ads in a smarter way, gain customer analytics and to help the blind to understand the emotions of the person near them**.<br>
 
 ### Getting Started<br>
-Link to the web-app:<br>
+Link to the web-app: https://recogapp.herokuapp.com/<br>
 or<br>
 Follow the below instructions to run the app on local host<br>
 1. Clone the git repository<br>
